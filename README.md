@@ -4,7 +4,8 @@
 
 
 
-  <a href=" https://habeeb-an.github.io/Ferris-wheel/"><strong>➥ Live Demo</strong></a>
+  <a href="https://habeeb-an.github.io/Ferris-wheel/"><strong>➥ Live Demo</strong></a>
+  
   <p>No Copyright</p>
   
   
